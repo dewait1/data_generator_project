@@ -1,0 +1,8 @@
+﻿Kierownik
+Manadżer
+Magazynier
+Księgowy
+Sprzedawca
+Konsultant
+Kasjer
+Sprzątarz

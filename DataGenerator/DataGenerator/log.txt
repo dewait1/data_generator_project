@@ -1,0 +1,1 @@
+INSERT INTO DOSTAWA (id_dostawy, data, dostawca) VALUES (:id, :data, :dostawca)522-02-20207

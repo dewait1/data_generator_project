@@ -1,0 +1,16 @@
+﻿Płyta główna
+Procesor (CPU)
+Pamięć RAM
+Zasilacz
+HDD
+SSD
+Karta graficzna
+Napęd CD, DVD
+Klawiatura i mysz
+Monitor
+Drukarka
+Skaner
+Gamepady
+Karta dźwiękowa
+Modem
+Inne

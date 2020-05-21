@@ -1,0 +1,50 @@
+Intel Celeron 2980U
+AMD Ryzen 9 3950X
+AMD Ryzen Threadripper
+Intel Core i9-10980XE
+Intel Core i7-7820X
+Intel Xeon Processor E5-1680
+AMD Ryzen 7 2700X
+AMD Ryzen 5 3600
+Intel Core i5-9600KF
+Intel Core i3-8350K
+AMD Ryzen 3 3200G
+NVIDIA Titan RTX
+NVIDIA GeForce RTX 2080 Ti
+NVIDIA Quadro RTX 6000
+NVIDIA Quadro RTX 8000
+NVIDIA Titan X (Pascal)
+AMD Radeon RX 5700
+NVIDIA Quadro RTX 4000
+AMD Radeon RX 5600 XT
+NVIDIA GeForce GTX 1660 Ti
+NVIDIA GeForce RTX 2060
+AMD Radeon RX 590
+AMD Radeon R9 390
+AMD Radeon R9 290
+NVIDIA GeForce GTX 780 Ti
+AMD Radeon RX Vega M
+NVIDIA GeForce GTX 965M
+Seagate BarraCuda
+Toshiba X300
+WD VelociRaptor
+WD Blue Desktop
+Seagate Firecuda Desktop
+Seagate IronWolf NAS
+Seagate FireCuda Mobile
+WD My Book
+G-Technology G-Drive
+Corsair Platinum RGB 32GB
+G.Skill Trident Z Neo 32GB
+G.Skill Trident Z RGB 16GB
+Ballistix Tactical Tracer RGB 32GB
+G.Skill Ripjaws V 16GB
+Patriot Viper Elite 8GB
+Xilence Performance Series 530W
+Cooler Master MasterWatt 450
+Chieftec Power Smart Series
+Be quiet! Pure Power 11 500W
+SilentiumPC Supremo 750W
+Xilence Performance X 750W
+Seasonic Focus Plus 750 Gold
+SilverStone SX650-G
